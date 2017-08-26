@@ -1,2 +1,3 @@
 # PDAParser
-Use PDA to implement a simple English parser
+Use Pushdown Automata and left-corner parsing scheme to implement a simple English parser
+
